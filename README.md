@@ -35,9 +35,6 @@ The source code for this project is also available on Kaggle. View the notebook 
    pip install -r requirements.txt
    ```
 
-### Usage
-Describe how to use your project, including examples or snippets of code.
-
 ### Contributing
 If you'd like to contribute to this project, please follow these guidelines.
 
