@@ -2,15 +2,13 @@
 
 # Deepfake Authenticity Verification Framework in Machine Learning
 
-![Project Logo/Introduction Image](path/to/your/image.png) <!-- Replace with an appropriate image -->
+![Project Logo/Introduction Image](https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/newsroom-deepfake-feat.jpg) 
 
 ### Introduction
 This repository contains code and resources for a deepfake authenticity verification framework using machine learning techniques. The framework aims to detect and classify deepfake videos/images from real ones.
 
 ### Dataset
-You can download the dataset used in this project from 
-![Keggle](http://img.shields.io/badge/status-unmaintained-red.png)
-[Kaggle - Deepfake and Real Images](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images).
+You can download the dataset used in this project from [Kaggle - Deepfake and Real Images](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images).
 
 ### Source Code
 The source code for this project is also available on Kaggle. View the notebook [here](https://www.kaggle.com/code/haritmengar/deepfake-authenticity-verification-framework-in-ml).
@@ -48,9 +46,6 @@ If you'd like to contribute to this project, please follow these guidelines.
 3. Make your changes and commit them: `git commit -am 'Add new feature'`.
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
-
-### License
-Include your project's license information here.
 
 ### Contact
 - Email: haritmanger11@gmail.com
