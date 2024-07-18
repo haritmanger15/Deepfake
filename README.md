@@ -15,7 +15,7 @@ The source code for this project is also available on Kaggle. View the notebook 
 
 ### Features
 - **Preprocessing:** Data preprocessing techniques for preparing images/videos.
-- **Modeling:** Implementation of machine learning models (e.g., XGBoost, LSTM) for classification.
+- **Modeling:** Implementation of machine learning models (e.g., Logistic Regression, Random Forest Classifier) for classification.
 - **Evaluation:** Metrics and methods used to evaluate model performance.
 - **Deployment:** Instructions for deploying the model or using it in other applications.
 
