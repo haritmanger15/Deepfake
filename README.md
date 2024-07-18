@@ -1,7 +1,3 @@
-To incorporate the Kaggle notebook link into your README.md file, you can modify the "Source Code" section accordingly. Here’s how your updated README.md might look:
-
-### README.md for Deepfake Authenticity Verification Framework in ML
-
 ---
 
 # Deepfake Authenticity Verification Framework in Machine Learning
