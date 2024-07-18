@@ -26,7 +26,7 @@ The source code for this project is also available on Kaggle. View the notebook 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/haritmanger15/deepfake.git
+   git clone https://github.com/haritmanger15/Deepfake.git
    cd your-repository
    ```
 
