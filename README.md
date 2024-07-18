@@ -52,13 +52,3 @@ Include your project's license information here.
 
 ### Contact
 - Email: haritmanger11@gmail.com
-
-### Acknowledgements
-Mention any contributors, libraries, or resources you've used or were inspired by.
-
-### Screenshots/Demo
-If applicable, include screenshots, GIFs, or links to demos showcasing your project.
-
----
-
-This format ensures that your README.md is informative, engaging, and provides all necessary links and information for users interested in your project.
